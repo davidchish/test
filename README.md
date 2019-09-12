@@ -1,3 +1,3 @@
 # test
 just cheking
-i am following this guide
+i am following this gui
